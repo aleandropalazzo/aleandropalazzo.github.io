@@ -27,7 +27,7 @@
     <meta property="og:url" content="{{ page.url | absolute_url }}" />
     <meta
       property="og:title"
-      content="{% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"
+      content="{{ site.title | escape }}"
     />
     <meta
       property="og:description"
@@ -43,7 +43,7 @@
     <meta property="twitter:url" content="{{ page.url | absolute_url }}" />
     <meta
       property="twitter:title"
-      content="{% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"
+      content="{{ site.title | escape }}"
     />
     <meta
       property="twitter:description"
