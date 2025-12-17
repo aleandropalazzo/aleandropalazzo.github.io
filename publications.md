@@ -4,4 +4,4 @@ title: Publications
 permalink: /publications/
 ---
 
-... Coming soon (hopefully)
+This space is empty for the moment. Check in the future for updates!
