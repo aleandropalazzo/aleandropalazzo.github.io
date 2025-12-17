@@ -1,39 +1,36 @@
 # Informazioni personali
-title: Damiano Paoli
+title: Aleandro Palazzo
 position: PhD Student
 institution: Alma Mater Studiorum - University of Bologna
 bio: >-
   Hello there!<br>
-  I'm a 4th-year PhD student in Economics at the <a href="https://dse.unibo.it/en" target="_blank">University of Bologna</a>.
-  I carry out my research in the field of experimental and behavioral economics.<br>
-  My research interests are Artificial Intelligence and human-machine interaction, fairness, coordination dilemmas, and public goods.<br>
-  I'm the local organizer of the <a href="https://sites.google.com/site/ideemeetings" target="_blank">IDEE meetings</a>; if you are interested in presenting, please reach out!
-
+  I'm a 3th-year PhD student in Economics at the <a href="https://dse.unibo.it/en" target="_blank">University of Bologna</a>.
+  I work mostly on labor economics, education and artificial intelligence.
+  
 # Metadati SEO migliorati
 description: >-
-  Personal website of Damiano Paoli, PhD in Economics at the University of Bologna.
-  Research in experimental and behavioral economics, coordination, public goods,
-  human-machine interaction, and artificial intelligence.
-author: Damiano Paoli
-keywords: Damiano Paoli, economia sperimentale, università di bologna, PhD economics, behavioral economics, AI, experimental economics, game theory, beni pubblici, fairness, coordinamento
+  Personal website of Aleandro Palazzo, PhD in Economics at the University of Bologna.
+  Research in labor economics, education and artificial intelligence.
+author: Aleandro Palazzo
+keywords: Aleandro Palazzo, labor economics, economia del lavoro, università di bologna, PhD economics, AI, education economics, automation, macrolabor, macroeconomics
 seo:
-  name: Damiano Paoli
+  name: Aleandro Palazzo
   type: Person
-google_site_verification: MYTbOgwKApVFN_MiLnhAbggeJZbeh30MkuW1pq1KyFA
+google_site_verification: 
 
 # Informazioni di contatto
-email: damiano.paoli3@unibo.it
+email: aleandro.palazzo2@unibo.it
 department: Department of Economics
-office: Office 141, Piazza Scaravilli 2, Bologna
+office: Office 142, Piazza Scaravilli 2, Bologna
 address:
 phone:
 
 # Collegamenti social e accademici
 social_links:
-  email: damiano.paoli3@unibo.it
-  twitter: DamianoPaoli
-  linkedin: damiano-paoli-386b771b3
-  bluesky: damianopaoli
+  email: aleandro.palazzo2@unibo.it
+  twitter: #
+  linkedin: aleandro-palazzo
+  bluesky: #
   scholar: # ID di Google Scholar
   orcid: # ID ORCID
   researchgate: # Nome utente di ResearchGate
@@ -43,7 +40,7 @@ featured_publications:
 
 # URL base e configurazioni
 baseurl: "" # il percorso sottodominio del sito, es. /blog
-url: "https://damianopaoli.github.io" # il dominio base, es. http://example.com
+url: "https://aleandropalazzo.github.io" # il dominio base, es. http://example.com
 
 # Configurazione di build
 markdown: kramdown
