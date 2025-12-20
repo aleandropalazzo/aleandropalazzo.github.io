@@ -13,6 +13,7 @@ permalink: /working-papers/
       Aleandro Palazzo
     </p>
     <div class="publication-links" style="margin-bottom: 10px;">
+      <span style="color: gray;">[Draft coming soon]</span>
       <!--<a href="/assets/pdfs/paper1.pdf" target="_blank" style="margin-right: 10px;">[Draft]</a>-->
       <!--<a href="/assets/pdfs/slides1.pdf" target="_blank" style="margin-right: 10px;">[Slides]</a>-->
       </div>
@@ -24,8 +25,19 @@ permalink: /working-papers/
     </details>
   </li>
   
-  <li class="publication-item">
-    <h3 class="publication-title">Rethinking Investments in Human Capital in the Age of Artificial Intelligence</h3>
-    <p class="publication-meta">Aleandro Palazzo</p>
+  <hr> <li class="publication-item" style="margin-top: 30px;">
+    <h3 class="publication-title" style="margin-bottom: 5px;">
+      Rethinking Investments in Human Capital in the Age of Artificial Intelligence
+    </h3>
+    <p class="publication-meta" style="margin-bottom: 5px;">Aleandro Palazzo</p>
+    <div class="publication-links" style="margin-bottom: 10px;">
+      <!--<span style="color: gray;">[Draft coming soon]</span>-->
+    </div>
+    <details>
+      <summary style="cursor: pointer; color: #666; font-weight: bold;">Abstract</summary>
+      <p style="margin-top: 10px; font-style: italic;">
+        Coming soon...
+      </p>
+    </details>
   </li>
 </ul>
