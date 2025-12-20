@@ -25,7 +25,7 @@ permalink: /working-papers/
     </details>
   </li>
   
-  <hr> <li class="publication-item" style="margin-top: 30px;">
+  <li class="publication-item" style="margin-top: 30px;">
     <h3 class="publication-title" style="margin-bottom: 5px;">
       Rethinking Investments in Human Capital in the Age of Artificial Intelligence
     </h3>
