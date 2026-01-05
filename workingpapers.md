@@ -13,7 +13,7 @@ permalink: /working-papers/
       Aleandro Palazzo
     </p>
     <div class="publication-links" style="margin-bottom: 10px;">
-      <span style="color: gray;">[Draft coming soon]</span>
+      <!--<span style="color: gray;">[Draft coming soon]</span>-->
       <a href="/assets/draft_overeduc.pdf" target="_blank" style="margin-right: 10px;">[Draft]</a>
       <!--<a href="/assets/pdfs/slides1.pdf" target="_blank" style="margin-right: 10px;">[Slides]</a>-->
       </div>
