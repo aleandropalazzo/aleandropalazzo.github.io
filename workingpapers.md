@@ -20,7 +20,7 @@ permalink: /working-papers/
     <details>
       <summary style="cursor: pointer; color: #666; font-weight: bold;">Abstract</summary>
       <p style="margin-top: 10px; font-style: italic;">
-        I develop a directed search model where workers differ by education, innate ability, and job-specific experience, and occupations differ in complexity and          educational requirements. Calibrated to U.S. data (NLSY79), the model provides a structural decomposition of the mechanisms behind overeducation                    persistence. Frictions explain part of the early persistence, while specialization and its interaction with age drive long-run persistence. Overall, the             analysis demonstrates that overeducation is not merely a temporary mismatch, but arises from structural mechanisms that trap workers in mismatched jobs,           highlighting the importance of policies that adopt a lifecycle perspective.
+        This paper studies overeducation persistence using a directed‑search model where workers differ by education, field, innate occupational ability, job‑specific experience, and age, whereas occupations differ by complexity and educational requirements. Calibrated to NLSY79 and O*NET, the model reproduces empirical patterns and decomposes persistence: frictions matter early, while accumulation of non‑transferable job‑specific experience (specialization) dominates long‑run persistence; age and apparent overeducation play a minor role; slower learning amplifies persistence. Policies that speed early learning and reduce frictions are most effective. Education is exogenous since I focus on post-schooling dynamics. Selection is captured via different ability distributions across groups.
       </p>
     </details>
   </li>
