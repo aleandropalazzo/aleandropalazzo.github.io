@@ -5,7 +5,15 @@ permalink: /working-papers/
 ---
 
 <ul class="publication-list">
-  <li class="publication-item" style="margin-bottom: 30px;">
+  <li class="publication-item" style="margin-bottom: 30px; display: flex; gap: 20px; align-items: flex-start;">
+    <!-- Immagine a sinistra -->
+  <img 
+    src="/assets/images/paper1-thumbnail.png" 
+    alt="Paper thumbnail" 
+    style="width: 120px; height: auto; border: 1px solid #ddd; border-radius: 4px; flex-shrink: 0;"
+  >
+    <!-- Contenuto a destra -->
+  <div>
     <h3 class="publication-title" style="margin-bottom: 5px;">
       Overeducation Over the Lifecycle: Disentangling Frictions, Innate Ability, and Job‑Specific Experience
     </h3>
