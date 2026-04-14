@@ -8,7 +8,7 @@ permalink: /working-papers/
   <li class="publication-item" style="margin-bottom: 30px; display: flex; gap: 20px; align-items: flex-start;">
     <!-- Immagine a sinistra -->
   <img 
-    src="/assets/img/Figure9a" 
+    src="/assets/img/Figure9a.pdf" 
     alt="Paper thumbnail" 
     style="width: 120px; height: auto; border: 1px solid #ddd; border-radius: 4px; flex-shrink: 0;"
   >
