@@ -36,7 +36,7 @@ early learning and reduce frictions are most effective.
     <img 
       src="/assets/img/img_overeduc.png" 
       alt="Paper thumbnail" 
-      style="width: 200px; height: auto; border: 1px solid #ddd; border-radius: 4px; flex-shrink: 0;"
+      style="width: 600px; height: auto; border: 1px solid #ddd; border-radius: 4px; flex-shrink: 0;"
     >
   </li>
   
