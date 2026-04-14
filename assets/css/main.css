@@ -835,3 +835,8 @@ img {
     padding: 1rem;
   }
 }
+
+@media (max-width: 600px) {
+  .publication-item { flex-direction: column; }
+  .publication-item img { width: 100%; }
+}
