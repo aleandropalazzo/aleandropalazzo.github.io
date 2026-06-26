@@ -27,6 +27,14 @@ permalink: /working-papers/
     +20\%). Third, automation uncertainty generates an endogenous risk premium.
       </p>
     </details>
+    </div>
+    <!-- Immagine a destra -->
+    <img 
+      src="/assets/img/employment_impact.pdf" 
+      alt="Paper thumbnail" 
+      style="width: 600px; height: auto; border: 1px solid #ddd; border-radius: 4px; flex-shrink: 0;"
+    >
+  </li>
   </li>
 
   <li class="publication-item" style="margin-bottom: 30px; display: flex; gap: 20px; align-items: flex-start;">
