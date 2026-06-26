@@ -30,11 +30,10 @@ permalink: /working-papers/
     </div>
     <!-- Immagine a destra -->
     <img 
-      src="/assets/img/employment_impact.pdf" 
+      src="/assets/img/img_AI_HC_website.jpg" 
       alt="Paper thumbnail" 
       style="width: 600px; height: auto; border: 1px solid #ddd; border-radius: 4px; flex-shrink: 0;"
     >
-  </li>
   </li>
 
   <li class="publication-item" style="margin-bottom: 30px; display: flex; gap: 20px; align-items: flex-start;">
