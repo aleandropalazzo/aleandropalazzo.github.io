@@ -34,7 +34,7 @@ permalink: /working-papers/
     <img 
       src="/assets/img/img_AI_HC_website.jpg" 
       alt="Paper thumbnail" 
-      style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 4px; flex-shrink: 0;"
+      style="width: 400px; height: auto; border: 1px solid #ddd; border-radius: 4px; flex-shrink: 0;"
     >
   </li>
 
