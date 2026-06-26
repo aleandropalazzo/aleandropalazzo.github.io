@@ -5,6 +5,30 @@ permalink: /working-papers/
 ---
 
 <ul class="publication-list">
+  
+  <li class="publication-item" style="margin-top: 30px;">
+    <h3 class="publication-title" style="margin-bottom: 5px;">
+      Rethinking Investments in Human Capital in the Age of Artificial Intelligence
+    </h3>
+    <p class="publication-meta" style="margin-bottom: 5px;">Aleandro Palazzo</p>
+     <div class="publication-links" style="margin-bottom: 10px;">
+        <a href="/assets/draft_AI_human_capital.pdf" target="_blank" style="margin-right: 10px;">[Preliminary Draft]</a>
+    </div>
+    <details>
+      <summary style="cursor: pointer; color: #666; font-weight: bold;">Abstract</summary>
+      <p style="margin-top: 10px; font-style: italic;">
+        How does Artificial Intelligence reshape human capital investment decisions? I develop an
+    Overlapping Generations model where risk-averse agents choose training paths based on AI's
+    expected impact and profound uncertainty. Calibrated to the US labor market, the framework
+    decomposes AI shocks into expected automation, expected augmentation, and their associated
+    uncertainties. The model yields three key results. First, both expected automation and its
+    uncertainty drive a structural reallocation, causing workers to flee highly uncertain cognitive
+    professions toward manual positions. Second, expected wages rise across all paths (+12\% to
+    +20\%). Third, automation uncertainty generates an endogenous risk premium.
+      </p>
+    </details>
+  </li>
+
   <li class="publication-item" style="margin-bottom: 30px; display: flex; gap: 20px; align-items: flex-start;">
     <!-- Contenuto a sinistra -->
     <div>
@@ -40,32 +64,4 @@ early learning and reduce frictions are most effective.
     >
   </li>
   
-  <li class="publication-item" style="margin-top: 30px;">
-    <h3 class="publication-title" style="margin-bottom: 5px;">
-      Rethinking Investments in Human Capital in the Age of Artificial Intelligence
-    </h3>
-    <p class="publication-meta" style="margin-bottom: 5px;">Aleandro Palazzo</p>
-     <div class="publication-links" style="margin-bottom: 10px;">
-        <a href="/assets/draft_AI_human_capital.pdf" target="_blank" style="margin-right: 10px;">[Preliminary Draft]</a>
-    </div>
-    <details>
-      <summary style="cursor: pointer; color: #666; font-weight: bold;">Abstract</summary>
-      <p style="margin-top: 10px; font-style: italic;">
-        How does Artificial Intelligence reshape human capital investment decisions? I develop
-    an Overlapping Generations model where risk-averse agents choose among different training
-    paths to maximize their lifetime utility. Agents form expectations about the
-    future impact of AI in each training path, but some paths are more uncertain
-    than others. Using US data from BLS employment projections and recent AI exposure
-    metrics, the model reveals three key results. First, uncertainty is an important
-    driver of reallocation: risk-averse individuals systematically avoid highly
-    uncertain training paths (reducing employment by up to 7% in the most uncertain
-    one), which endogenously increases expected wages in those training paths due to
-    labor scarcity. Second, workers reallocate toward paths
-    with higher expected demand and lower uncertainty; however, the resulting crowding
-    effect dampens the positive demand shock, ultimately leaving expected wages substantially 
-    unchanged. Third, due to these general equilibrium forces, the net impact of AI on expected wages remains 
-    modest across all training paths, contained between -6\% and +6\% compared to pre-AI (2022) median wages.
-      </p>
-    </details>
-  </li>
 </ul>
