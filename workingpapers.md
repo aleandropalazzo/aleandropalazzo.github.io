@@ -10,7 +10,7 @@ permalink: /working-papers/
     <!-- Contenuto a sinistra -->
     <div>
       <h3 class="publication-title" style="margin-bottom: 5px;">
-        Rethinking Investments in Human Capital in the Age of Artificial Intelligence
+        Investments in Human Capital in the Age of Artificial Intelligence
       </h3>
       <p class="publication-meta" style="margin-bottom: 5px;">Aleandro Palazzo</p>
       <div class="publication-links" style="margin-bottom: 10px;">
@@ -19,14 +19,15 @@ permalink: /working-papers/
       <details>
         <summary style="cursor: pointer; color: #666; font-weight: bold;">Abstract</summary>
         <p style="margin-top: 10px; font-style: italic;">
-          How does Artificial Intelligence reshape human capital investment decisions? I develop an
-          Overlapping Generations model where risk-averse agents choose training paths based on AI's
-          expected impact and profound uncertainty. Calibrated to the US labor market, the framework
-          decomposes AI shocks into expected automation, expected augmentation, and their associated
-          uncertainties. The model yields three key results. First, both expected automation and its
-          uncertainty drive a structural reallocation, causing workers to flee highly uncertain cognitive
-          professions toward manual positions. Second, expected wages rise across all paths (+12% to
-          +20%). Third, automation uncertainty generates an endogenous risk premium.
+          How does Artificial Intelligence reshape human capital investment decisions? I develop a task-based
+    model where risk-averse agents make irreversible training choices based on AI's expected impact and uncertainty.
+    Calibrated to the US labor market, the framework decomposes AI shocks into expected automation, expected
+    augmentation, and their associated uncertainties. The model yields three key results. First, expected
+    automation and its uncertainty drive a structural reallocation, causing workers to systematically avoid training
+    paths facing high automation risk, while choosing paths requiring more manual or social skills.
+    Second, direct AI impact and labor scarcity balance each other; as a result, expected wages rise across all
+    training paths by approximately +14%. Third, automation uncertainty generates an
+    endogenous risk premium of up to +2.3%.
         </p>
       </details>
     </div>
