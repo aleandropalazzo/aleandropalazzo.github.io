@@ -15,6 +15,7 @@ permalink: /working-papers/
       <p class="publication-meta" style="margin-bottom: 5px;">Aleandro Palazzo</p>
       <div class="publication-links" style="margin-bottom: 10px;">
         <a href="/assets/draft_AI_human_capital.pdf" target="_blank" style="margin-right: 10px;">[Preliminary Draft]</a>
+        <a href="/assets/AI_education_slides.pdf" target="_blank" style="margin-right: 10px;">[Slides]</a>
       </div>
       <details>
         <summary style="cursor: pointer; color: #666; font-weight: bold;">Abstract</summary>
