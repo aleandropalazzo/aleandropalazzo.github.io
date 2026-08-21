@@ -44,7 +44,7 @@ permalink: /working-papers/
     <!-- Contenuto a sinistra -->
     <div>
       <h3 class="publication-title" style="margin-bottom: 5px;">
-        Overeducation Over the Lifecycle: Disentangling Frictions, Innate Ability, and Job‑Specific Experience
+        Overeducation Persistence Over the Lifecycle: Disentangling Frictions, Specialization and Aging
       </h3>
       <p class="publication-meta" style="margin-bottom: 5px;">
         Aleandro Palazzo
@@ -55,21 +55,19 @@ permalink: /working-papers/
       <details>
         <summary style="cursor: pointer; color: #666; font-weight: bold;">Abstract</summary>
         <p style="margin-top: 10px; font-style: italic;">
-          I study overeducation persistence with a directed-search model where workers
-          differ in education, field, innate ability, job-specific experience, and age. Calibrated
-          to the NLSY79 and O*NET, a structural decomposition shows that nontransferable
-          job-specific experience is the dominant source of long-run persistence,
-          frictions matter mostly early on, and slow ability learning amplifies both channels.
-          Age effects and apparent overeducation are minor. Education is treated
-          as exogenous to focus on post-schooling dynamics; selection is captured through
-          heterogeneous ability distributions across education groups. Policies that speed
-          early learning and reduce frictions are most effective.
+          I study overeducation persistence with a directed-search model in which workers differ in education, field of study, 
+field-specific experience, and age. Calibrated to the NLSY79 and O*NET, four counterfactual scenarios decompose 
+persistence into its structural channels. Search frictions are by far the dominant driver: removing them would 
+reduce monthly persistence from 97\% to 50\% early in the career. The specialization trap---non-transferable 
+field-specific experience---is the second most important channel, and learning frictions contribute to a smaller extent. 
+Age effects are negligible. Education is treated as exogenous to focus on post-schooling dynamics. Policies that reduce 
+matching frictions, particularly early in the career, are most effective.
         </p>
       </details>
     </div>
     <!-- Immagine a destra -->
     <img 
-      src="/assets/img/img_overeduc.png" 
+      src="/assets/img/Figure_decomposition_OO_all.pdf" 
       alt="Paper thumbnail" 
       style="width: 600px; height: auto; border: 1px solid #ddd; border-radius: 4px; flex-shrink: 0;"
     >
