@@ -67,7 +67,7 @@ matching frictions, particularly early in the career, are most effective.
     </div>
     <!-- Immagine a destra -->
     <img 
-      src="/assets/img/Figure_decomposition_OO_all.pdf" 
+      src="/assets/img/overeducation_img.jpg" 
       alt="Paper thumbnail" 
       style="width: 600px; height: auto; border: 1px solid #ddd; border-radius: 4px; flex-shrink: 0;"
     >
