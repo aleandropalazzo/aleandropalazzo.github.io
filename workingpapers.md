@@ -69,7 +69,7 @@ matching frictions, particularly early in the career, are most effective.
     <img 
       src="/assets/img/overeducation_img.jpg" 
       alt="Paper thumbnail" 
-      style="width: 600px; height: auto; border: 1px solid #ddd; border-radius: 4px; flex-shrink: 0;"
+      style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 4px; flex-shrink: 0;"
     >
   </li>
   
