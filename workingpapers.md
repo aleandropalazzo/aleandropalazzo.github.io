@@ -27,8 +27,8 @@ permalink: /working-papers/
     automation drives a structural reallocation, causing workers to systematically avoid training
     paths facing high automation risk, while choosing paths requiring more manual or social skills.
     Second, direct AI impact and labor scarcity balance each other; as a result, expected wages rise across all
-    training paths by approximately $+14\%$. Third, automation uncertainty generates an
-    endogenous risk premium of up to $+2.3\%$.
+    training paths by approximately +14%. Third, automation uncertainty generates an
+    endogenous risk premium of up to +2.3%.
         </p>
       </details>
     </div>
