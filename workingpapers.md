@@ -14,7 +14,7 @@ permalink: /working-papers/
       </h3>
       <p class="publication-meta" style="margin-bottom: 5px;">Aleandro Palazzo</p>
       <div class="publication-links" style="margin-bottom: 10px;">
-        <a href="/assets/draft_AI_human_capital.pdf" target="_blank" style="margin-right: 10px;">[Preliminary Draft]</a>
+        <a href="/assets/draft_AI_human_capital.pdf" target="_blank" style="margin-right: 10px;">[Draft]</a>
         <a href="/assets/AI_education_slides.pdf" target="_blank" style="margin-right: 10px;">[Slides]</a>
       </div>
       <details>
@@ -24,11 +24,11 @@ permalink: /working-papers/
     model where risk-averse agents make irreversible training choices based on AI's expected impact and uncertainty.
     Calibrated to the US labor market, the framework decomposes AI shocks into expected automation, expected
     augmentation, and their associated uncertainties. The model yields three key results. First, expected
-    automation and its uncertainty drive a structural reallocation, causing workers to systematically avoid training
+    automation drives a structural reallocation, causing workers to systematically avoid training
     paths facing high automation risk, while choosing paths requiring more manual or social skills.
     Second, direct AI impact and labor scarcity balance each other; as a result, expected wages rise across all
-    training paths by approximately +14%. Third, automation uncertainty generates an
-    endogenous risk premium of up to +2.3%.
+    training paths by approximately $+14\%$. Third, automation uncertainty generates an
+    endogenous risk premium of up to $+2.3\%$.
         </p>
       </details>
     </div>
