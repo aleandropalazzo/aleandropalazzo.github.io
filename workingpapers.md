@@ -60,7 +60,7 @@ permalink: /working-papers/
           I study overeducation persistence with a directed-search model in which workers differ in education, field of study, 
 field-specific experience, and age. Calibrated to the NLSY79 and O*NET, four counterfactual scenarios decompose 
 persistence into its structural channels. Search frictions are by far the dominant driver: removing them would 
-reduce monthly persistence from 97\% to 50\% early in the career. The specialization trap---non-transferable 
+reduce monthly persistence from 97% to 50% early in the career. The specialization trap---non-transferable 
 field-specific experience---is the second most important channel, and learning frictions contribute to a smaller extent. 
 Age effects are negligible. Education is treated as exogenous to focus on post-schooling dynamics. Policies that reduce 
 matching frictions, particularly early in the career, are most effective.
