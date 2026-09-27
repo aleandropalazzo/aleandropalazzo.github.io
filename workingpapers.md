@@ -23,12 +23,14 @@ permalink: /working-papers/
           How does Artificial Intelligence reshape human capital investment decisions? I develop a task-based
     model where risk-averse agents make irreversible training choices based on AI's expected impact and uncertainty.
     Calibrated to the US labor market, the framework decomposes AI shocks into expected automation, expected
-    augmentation, and their associated uncertainties. The model yields three key results. First, expected
-    automation drives a structural reallocation, causing workers to systematically avoid training
-    paths facing high automation risk, while choosing paths requiring more manual or social skills.
-    Second, direct AI impact and labor scarcity balance each other; as a result, expected wages rise across all
-    training paths by approximately +14%. Third, automation uncertainty generates an
-    endogenous risk premium of up to +2.3%.
+    augmentation, and their associated uncertainties. The model yields three key results.
+    First, expected automation drives a structural reallocation, causing young students to systematically avoid training
+    paths facing high automation risk, while choosing paths requiring more manual or social skills. Second, 
+    average expected wages rise, but their distribution depends on the 
+    responsiveness of training choices made by the new generation: when it is high, labor scarcity
+    offsets the direct impact of AI and wage gains are nearly uniform across training paths; when it is low, labor reallocation 
+    is weaker, and wage gains are more concentrated in the safest paths. Third, automation uncertainty generates an endogenous 
+    risk premium.
         </p>
       </details>
     </div>
