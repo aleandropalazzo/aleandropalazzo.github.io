@@ -57,13 +57,14 @@ permalink: /working-papers/
       <details>
         <summary style="cursor: pointer; color: #666; font-weight: bold;">Abstract</summary>
         <p style="margin-top: 10px; font-style: italic;">
-          I study overeducation persistence with a directed-search model in which workers differ in education, field of study, 
-field-specific experience, and age. Calibrated to the NLSY79 and O*NET, four counterfactual scenarios decompose 
-persistence into its structural channels. Search frictions are by far the dominant driver: removing them would 
-reduce monthly persistence from 97% to 50% early in the career. The specialization trap, non-transferable 
-field-specific experience, is the second most important channel, and learning frictions contribute to a smaller extent. 
-Age effects are negligible. Education is treated as exogenous to focus on post-schooling dynamics. Policies that reduce 
-matching frictions, particularly early in the career, are most effective.
+          The monthly persistence of overeducation among U.S. college graduates rises steadily with age, and among graduates
+who are overeducated at age 30, most reach a job that requires a degree within a few years, but one in six has not
+reached one by age 55. I study these facts with a lifecycle directed-search model in which graduates differ by field
+of study and accumulate field-specific experience that is only partly transferable between non-college and college
+jobs, firms and workers learn about match quality over time, and the work horizon shortens with age. Calibrated to
+the NLSY79, the model reproduces the untargeted rise of persistence with age and the speed of the early exits from
+overeducation. Search and learning frictions account for most of the time that graduates spend overeducated, while
+the partial loss of experience and the shrinking work horizon account for the rise of persistence with age.
         </p>
       </details>
     </div>
