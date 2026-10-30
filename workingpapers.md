@@ -70,7 +70,7 @@ the partial loss of experience and the shrinking work horizon account for the ri
     </div>
     <!-- Immagine a destra -->
     <img 
-      src="/assets/img/overeducation_img.jpg" 
+      src="/assets/img/overeducation_decomposition.png" 
       alt="Paper thumbnail" 
       style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 4px; flex-shrink: 0;"
     >
