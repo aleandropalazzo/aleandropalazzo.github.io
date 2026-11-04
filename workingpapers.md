@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work in Progress
+title: Working Papers
 permalink: /working-papers/
 ---
 
@@ -75,5 +75,17 @@ the partial loss of experience and the shrinking work horizon account for the ri
       style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 4px; flex-shrink: 0;"
     >
   </li>
-  
+</ul>
+<h2 style="margin-top: 50px;">Work in Progress</h2>
+
+<ul class="publication-list">
+  <li class="publication-item" style="margin-bottom: 20px;">
+    <h3 class="publication-title" style="margin-bottom: 5px;">AI and Labor Market Rigidity: Implications for Human Capital</h3>
+    <p class="publication-meta" style="margin-bottom: 5px;">Aleandro Palazzo</p>
+  </li>
+
+  <li class="publication-item" style="margin-bottom: 20px;">
+    <h3 class="publication-title" style="margin-bottom: 5px;">Is AI Unsorting the Labor Market?</h3>
+    <p class="publication-meta" style="margin-bottom: 5px;">Aleandro Palazzo</p>
+  </li>
 </ul>
