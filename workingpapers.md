@@ -57,14 +57,18 @@ permalink: /working-papers/
       <details>
         <summary style="cursor: pointer; color: #666; font-weight: bold;">Abstract</summary>
         <p style="margin-top: 10px; font-style: italic;">
-          The monthly persistence of overeducation among U.S. college graduates rises steadily with age, and among graduates
-who are overeducated at age 30, most reach a job that requires a degree within a few years, but one in six has not
-reached one by age 55. I study these facts with a lifecycle directed-search model in which graduates differ by field
-of study and accumulate field-specific experience that is only partly transferable between non-college and college
-jobs, firms and workers learn about match quality over time, and the work horizon shortens with age. Calibrated to
-the NLSY79, the model reproduces the untargeted rise of persistence with age and the speed of the early exits from
-overeducation. Search and learning frictions account for most of the time that graduates spend overeducated, while
-the partial loss of experience and the shrinking work horizon account for the rise of persistence with age.
+          Between 20% and 35% of workers are overeducated: they hold more education than the typical 
+requirement of their job. The monthly rate at which overeducated U.S. college graduates move to 
+a matched job that requires their degree falls by almost two thirds between their thirties and their fifties. 
+Moreover, among graduates who are overeducated at age 30, one in four has never moved to a matched job by 
+age 55. I study these facts with a lifecycle directed-search model in which graduates differ by field of 
+study and accumulate field-specific experience that is only partly transferable between non-college 
+and college jobs, firms and workers learn about match quality over time, and the work horizon shortens 
+with age. Calibrated to the NLSY79, the model reproduces the profile of the hazard rate of exits by age,
+and the exits in the first year after age 30, although it understates the share of graduates who never 
+leave overeducation. Search and learning frictions account for most of the time that
+graduates spend overeducated, especially early in the career. As they age, the partial loss of 
+experience and the shrinking work horizon account for almost half of overeducation persistence.
         </p>
       </details>
     </div>
