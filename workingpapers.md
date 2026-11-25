@@ -35,7 +35,7 @@ permalink: /working-papers/
     </div>
     <!-- Immagine a destra -->
     <img 
-      src="/assets/img/img_AI_HC_website.jpg" 
+      src="/assets/img/img_AI_HC_website.png" 
       alt="Paper thumbnail" 
       style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 4px; flex-shrink: 0;"
     >
