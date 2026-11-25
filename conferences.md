@@ -4,6 +4,8 @@ title: Conferences
 permalink: /conferences/
 ---
 ### 2026
+- **Applied Macro Theory Seminar**, University of Chicago
+- **Capital Theory Seminar**, University of Chicago
 - **Rodolfo De Bendetti Foundation Workshop**, University of Bologna
 
 ### 2025
