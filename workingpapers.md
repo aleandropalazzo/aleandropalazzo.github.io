@@ -8,7 +8,7 @@ permalink: /working-papers/
   
   <li class="publication-item" style="margin-top: 30px; display: flex; gap: 20px; align-items: flex-start;">
     <!-- Contenuto a sinistra -->
-    <div>
+    <div style="flex: 1;">
       <h3 class="publication-title" style="margin-bottom: 5px;">
         Investments in Human Capital in the Age of AI
       </h3>
@@ -43,7 +43,7 @@ permalink: /working-papers/
 
   <li class="publication-item" style="margin-bottom: 30px; display: flex; gap: 20px; align-items: flex-start;">
     <!-- Contenuto a sinistra -->
-    <div>
+    <div style="flex: 1;">
       <h3 class="publication-title" style="margin-bottom: 5px;">
         Overeducation Persistence Over the Lifecycle: Disentangling Frictions, Specialization and Aging
       </h3>
@@ -56,8 +56,8 @@ permalink: /working-papers/
       <details>
         <summary style="cursor: pointer; color: #666; font-weight: bold;">Abstract</summary>
         <p style="margin-top: 10px; font-style: italic;">
-          Between 20\% and 35\% of workers are overeducated: they hold more education than the typical 
-requirement of their job. The monthly rate at which overeducated U.S.\ college graduates move to 
+          Between 20% and 35% of workers are overeducated: they hold more education than the typical 
+requirement of their job. The monthly rate at which overeducated U.S. college graduates move to 
 a matched job that requires their degree falls by almost two thirds between their thirties and their fifties. 
 Moreover, among graduates who are overeducated at age 30, one in four has never moved to a matched job by 
 age 55. I study these facts with a lifecycle directed-search model in which graduates differ by field of 
