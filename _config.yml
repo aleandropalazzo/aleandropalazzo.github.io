@@ -4,16 +4,34 @@ position: PhD Student
 institution: Alma Mater Studiorum - University of Bologna
 bio: >-
   <p>
-    Welcome to my website! I am a 4th-year PhD student in Economics at the <a href="https://dse.unibo.it/en" target="_blank">University of Bologna</a>, and a Visiting PhD Student at the <a href="https://economics.uchicago.edu/" target="_blank">University of Chicago</a>.
+    Welcome to my website! I am a PhD candidate in Economics at the <a href="https://dse.unibo.it/en" target="_blank">University of Bologna</a>, and a Visiting PhD Student at the <a href="https://economics.uchicago.edu/" target="_blank">University of Chicago</a>.
   </p>
   
   <p>
     My <a href="/working-papers">research</a> primarily focuses on  <strong>Macroeconomics</strong>, <strong>Labor Economics</strong> and <strong>Education</strong>, with a specific interest in the impact of <strong>Artificial Intelligence</strong>.
   </p>
+
+  <p>
+    My advisor is <a href="https://sites.google.com/site/giuliozanella/">Giulio Zanella</a> and my host at the <a href="https://economics.uchicago.edu/" target="_blank">University of Chicago</a> is <a href="https://www.derekneal.economics.uchicago.edu/">Derek Neal</a>.
+  </p>
   
   <p>
     You can find my <a href="/cv/">CV here</a> or contact me by email at <a href="mailto:aleandro.palazzo2@unibo.it">aleandro.palazzo2@unibo.it</a>.
   </p>
+
+  <p>I am on the 2026/27 economics job market.</p>
+  <p><strong>Job Market Paper:</strong> <a href="/assets/draft_AI_human_capital.pdf">Investments in Human Capital in the Age of AI</a></p>
+  <p>How does generative AI change the educational choices of new generations, and how do these choices 
+    shape its effects on wages? I study these questions in an overlapping-generations, task-based model 
+    in which each student makes an irreversible choice among 13 training fields. I measure field-level 
+    AI shocks using task-level theoretical exposure and current use, and calibrate the model to 
+    the US labor market. In the long run, workers move away from the fields most exposed to automation, 
+    with computer science employment falling by 14.3%. This labor reallocation absorbs about 70% of 
+    AI's direct impact on relative wages. However, adjustment takes decades. Workers who trained in the 
+    most exposed fields just before AI's introduction bear the largest relative losses, whereas gradual 
+    reallocation mitigates the impact on future generations. Early enrollment data are consistent with 
+    the model's quantitative implications: computer science enrollment fell by 8.1% in fall 2025, against 
+    a predicted 7%. </p>
   
 # Metadati SEO migliorati
 description: >-
