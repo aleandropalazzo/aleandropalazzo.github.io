@@ -514,7 +514,7 @@ img {
 }
 
 .profile-image {
-  flex: 0 0 300px;
+  flex: 0 0 200px;
   margin-right: 2rem;
   margin-bottom: 1rem;
   max-width: 100%;
